@@ -26,3 +26,6 @@ def myFunc():
     print("Python is " + x)
 myFunc()
 print("Python is " + x)
+
+# making changes in file to observe how git works 
+print("--- Changes Made---")
