@@ -28,4 +28,6 @@ myFunc()
 print("Python is " + x)
 
 # making changes in file to observe how git works 
-print("--- Changes Made---")
+print("--- Changes Made -> This was 2nd commit by the way---")
+# now making a 3rd commit
+print("This was 3rd commit")
